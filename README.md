@@ -1,0 +1,4 @@
+- 👋 Hi, I’m AKHIL C REGI
+- 👀 I’m interested in developing new apps
+- 🌱 I’m currently learning Kotlin
+- 📫 Message me on ig/twitter/@akhhyyl
